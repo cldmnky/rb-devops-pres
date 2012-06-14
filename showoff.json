@@ -1,0 +1,7 @@
+{ "name": "Devops", "sections": [ 
+        {"section":"title"}, 
+        {"section":"bakgrund"},
+        {"section": "cams"},
+        {"section": "verktyg"}
+    ]
+}

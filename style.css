@@ -1,0 +1,23 @@
+.rbtemplate {
+    background-image: url(redbridge.png);
+    background-repeat: no-repeat;
+    background-position: 98% 0%;
+    background-size: 50%;
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* z-index: -1; */
+}
+.content::after {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  content: url(forkme_left_red_aa0000.png);
+}
+.content::before {
+  position: absolute;
+  right: 0px;
+  bottom: 50px;
+  content: url(rblogo.gif);
+}
