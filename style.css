@@ -17,7 +17,7 @@
 }
 .content::before {
   position: absolute;
-  right: 0px;
+  right: 10px;
   bottom: 50px;
   content: url(rblogo.gif);
 }

@@ -2,6 +2,7 @@
         {"section":"title"}, 
         {"section":"bakgrund"},
         {"section": "cams"},
-        {"section": "verktyg"}
+        {"section": "verktyg"},
+        {"section": "diskussion"}
     ]
 }

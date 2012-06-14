@@ -29,7 +29,7 @@
 * Gränsvärden för allt.
 
 
-!SLIDE bullets incremental transition=slide
+!SLIDE bullets incremental transition=fade
 # mätbarhet #
 * verktyg
     * graphite
